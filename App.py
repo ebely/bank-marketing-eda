@@ -54,7 +54,7 @@ if menu == "Home":
     """)
 
     st.subheader("Autor")
-    st.write("Ruth")
+    st.write("Ruth Llalla")
 
     st.subheader("Tecnologías")
 
@@ -230,13 +230,13 @@ if menu == "Conclusiones":
     st.header("Hallazgos principales")
 
     st.write("""
-    1. La duración de las llamadas parece tener relación con la aceptación de la campaña.
+    - La duración de las llamadas parece tener relación con la aceptación de la campaña.
 
-    2. Algunos perfiles demográficos presentan mayor probabilidad de aceptar la oferta.
+    - Algunos perfiles demográficos presentan mayor probabilidad de aceptar la oferta.
 
-    3. La repetición excesiva de contactos no necesariamente mejora los resultados.
+    - La repetición excesiva de contactos no necesariamente mejora los resultados.
 
-    4. Las condiciones económicas pueden influir en el comportamiento del cliente.
+    - Las condiciones económicas pueden influir en el comportamiento del cliente.
 
-    5. El análisis exploratorio permite detectar patrones útiles antes de aplicar modelos predictivos.
+    - El análisis exploratorio permite detectar patrones útiles antes de aplicar modelos predictivos.
     """)
